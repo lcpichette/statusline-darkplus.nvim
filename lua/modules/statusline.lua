@@ -45,9 +45,9 @@ local space = ' '
 
 -- Different colors for mode
 local purple = '#569CD6' --#B48EAD
-local blue = '#DCDCAA' --#81A1C1
+local blue = '#569CD6' --#81A1C1
 local yellow = '#608B4E' --#EBCB8B
-local green = '#CE9178' --#A3BE8C
+local green = '#DCDCAA' --#A3BE8C
 local red = '#D16969' --#BF616A
 
 -- fg and bg
